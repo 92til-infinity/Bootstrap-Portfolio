@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url('/assets/images/background-steel-image.jpg');
+    background: url('../images/background-steel-image.jpg');
     font-size: 18px;
     line-height: 34px;
     font-family: Arial, Helvetica, sans-serif;
