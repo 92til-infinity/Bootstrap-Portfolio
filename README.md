@@ -4,5 +4,5 @@ homework#2
 **modified the Div's to be mobile with coloumns
 **put a sticky footer on
 
-**when adding bootstrap i made sure it fit large screen and let it auto format to a smaller screen
+**when adding bootstrap i made sure it fit a small screen and let it auto format to a larger screen
 
